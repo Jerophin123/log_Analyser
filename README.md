@@ -148,5 +148,5 @@ Log Analyser is a lightweight, easy-to-use tool that requires no external depend
 | 💻 **GitHub**               | [Jerophin](https://github.com/Jerophin)         |
 
 Feel free to reach out for questions, suggestions, or feedback! Contributions are always welcome. 😊
-```
+
 

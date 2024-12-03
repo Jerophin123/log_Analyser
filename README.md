@@ -55,7 +55,7 @@ Follow these simple steps to set up Log Analyser on your system:
 3. **Run the Script**:  
    Execute the script using Python:
    ```bash
-   python log_analyser.py
+   python Log_Analyser.py
    ```
 
 4. **Check the Results**:  

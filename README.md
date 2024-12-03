@@ -1,6 +1,5 @@
 
 
-```
 # 🚀 Log Analyser
 
 ## 📋 Overview

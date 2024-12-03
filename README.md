@@ -34,11 +34,11 @@ Follow these simple steps to set up Log Analyser on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Log_analyser.git
+   git clone https://github.com/your-username/Log_Analyser.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Log_analyser
+   cd Log_Analyser
    ```
 
 ---

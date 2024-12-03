@@ -142,10 +142,14 @@ Log Analyser is a lightweight, easy-to-use tool that requires no external depend
 ---
 
 ## 📞 Contact
+
+### Name: Jerophin D R
 | **Contact Method**       | **Details**                                      |
 |---------------------------|-------------------------------------------------|
 | ✉️ **Email**                | [jerophinstanley47@gmail.com](mailto:jerophinstanley47@gmail.com) |
-| 💻 **GitHub**               | [Jerophin](https://github.com/Jerophin)         |
+| 💻 **GitHub**               | [Jerophin](https://github.com/Jerophin123)         |
+| 📱 **Linkedin**               | [Jerophin](https://www.linkedin.com/in/jerophin-d-r-b9a73b257/)         |
+
 
 Feel free to reach out for questions, suggestions, or feedback! Contributions are always welcome. 😊
 
